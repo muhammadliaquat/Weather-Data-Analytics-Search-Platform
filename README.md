@@ -1,6 +1,6 @@
-**Weather Data Analytics & Search Platform**
+******Weather Data Analytics & Search Platform******
 -----------------------------------------------------------------------------------------------
-**Milestone 1 – Project Description**
+****Milestone 1 – Project Description****
 
 Goal:
 
@@ -38,7 +38,9 @@ REST APIs return analytics correctly
 Postman tests pass
 
 Basic dashboard  visuals available
-**Milestone 2 –Use Cases**
+
+****Milestone 2 –Use Cases****
+
 Use Case 1 — Ingest Weather Dataset
 
 Actor: Admin / Developer
